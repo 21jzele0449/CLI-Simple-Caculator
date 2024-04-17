@@ -1,0 +1,19 @@
+{
+  "name": "ua911-cli-simple-caculator",
+  "version": "1.0.0",
+  "description": "cli based simple calculator using typescript",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "usama ahmad",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
